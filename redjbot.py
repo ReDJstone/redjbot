@@ -325,5 +325,3 @@ async def insulta(ctx, arg1=None):
 
 
 '''
-bot.run('NDcxNzM4NDEyMTAyMTg5MDU3.GmD9sI.rmxaJ1koNDQJzjHHCDXYyVu0zqPWd3-NayRjbo')
-
